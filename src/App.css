@@ -1,0 +1,8 @@
+.App {
+    background-color: rgb(138, 13, 255);
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
